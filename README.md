@@ -1,2 +1,2 @@
 # Images
-My Images
+My public images
